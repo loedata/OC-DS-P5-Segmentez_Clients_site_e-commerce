@@ -14,9 +14,13 @@ Olist, solution de vente sur les marketplaces en ligne, souhaite fournir à ses 
 - fournir à l’équipe marketing une description actionable de la segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 ![P5_Indicateurs](https://user-images.githubusercontent.com/71518818/135112439-641ad92e-da0a-4a47-8c80-ef0f8ec67423.png)
 
-## Les données
+## Source
 Pour cette mission, Olist fournit une base de données anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
 [Source_ecommerce](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+
+## Boîte à outils
+
+![P5_outils](https://user-images.githubusercontent.com/71518818/135891935-f5bd68cc-d7fb-4588-a9da-5d4334c399e6.png)
 
 ## Mission
 - aider les équipes d’Olist à comprendre les différents types d'utilisateurs
@@ -34,5 +38,16 @@ La segmentation proposée doit être __exploitable et facile d’utilisation__ p
 ![P5_CLUS_1](https://user-images.githubusercontent.com/71518818/135113447-6cc7780c-fcb8-47bd-9bc6-e0cb389d9b21.png)
 ![P5_CLUS_2](https://user-images.githubusercontent.com/71518818/135113609-66c5f9b4-9578-4890-bb0f-de4b5012a385.png)
 ![P5_CLUS_3](https://user-images.githubusercontent.com/71518818/135113680-41093d71-c69a-4628-a12d-6b3443bb76e5.png)
+
+## Compétences
+
+- Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer.
+- Évaluer les performances d’un modèle d'apprentissage non supervisé.
+- Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé.
+- Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier.
+
+## Évaluation
+
+![P5_eval](https://user-images.githubusercontent.com/71518818/135892150-3690d4fe-269f-4e40-8ae3-c08d64e7b43b.png)
 
 
